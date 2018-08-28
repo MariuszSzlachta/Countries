@@ -1,8 +1,8 @@
 https://mariuszszlachta.github.io/Countries/
 
-#Countries
+# Countries
 
-##What's this?
+## What's this?
 
 This is extremely simple app using rescountries api. Allows you to find a country and get information about your query.
 
@@ -12,7 +12,7 @@ This is extremely simple app using rescountries api. Allows you to find a countr
 - SCSS
 - AJAX (FetchAPI)
 
-##License
+## License
 
 The following license terms apply to my code. The libraries and frameworks used to create the application contain separate license terms.
 
