@@ -6,7 +6,7 @@ https://mariuszszlachta.github.io/Countries/
 
 This is extremely simple app using rescountries api. Allows you to find a country and get information about your query.
 
-##Technologies
+## Technologies
 
 - HTML
 - SCSS
